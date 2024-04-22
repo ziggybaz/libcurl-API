@@ -4,7 +4,7 @@ Trying out libcurl to make http requests using libcurl and the C programming lan
 
 just messing around🤣</br>
 
-Disclaimer: this code was done following instructions from the libcurl docs</br>
+Disclaimer: read the libcurl docs</br>
 
 *[Libcurl docs](https://curl.se/libcurl/c/libcurl.html)
 
